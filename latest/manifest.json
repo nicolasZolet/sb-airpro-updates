@@ -1,10 +1,10 @@
 {
     "appVersion":  "1.2-debug",
-    "centralVersion":  "0.2.20",
+    "centralVersion":  "0.2.21",
     "bundle":  {
-                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-1.2-debug-0.2.20.sbap",
-                   "size":  704798,
-                   "sha256":  "0daa8c399b76a57dd5e254348ddbae81dd53ceea5208213c73ab7201af450307"
+                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-1.2-debug-0.2.21.sbap",
+                   "size":  704793,
+                   "sha256":  "185e4a1d823105c72b0a8616ff5af9686000cc3fc8b8ccbf16be2c1678cfb0e4"
                },
     "changelog":  "Atualizacao remota inicial da central via controle Android.",
     "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
