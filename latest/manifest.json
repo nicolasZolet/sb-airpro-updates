@@ -3,10 +3,10 @@
     "centralVersion":  "0.2.26",
     "bundle":  {
                    "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-3.7-debug-0.2.26.sbap",
-                   "size":  9509736,
-                   "sha256":  "19fb333df72be276b38c30efa1eec916fe7a5f2cc093641ae34b449732d228fb"
+                   "size":  9509704,
+                   "sha256":  "78a4513ea01093809c9fc50c870ef32946ce2ea7dfd625e76576abc6cb406a9f"
                },
-    "changelog":  "Correcao do OTA da central: estabilidade do upload HTTP, logs de diagnostico e confirmacao de reboot.",
+    "changelog":  "Firmware central 0.2.26 para teste OTA remoto.",
     "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
     "compatibility":  {
                           "minAppVersion":  "1.0",
