@@ -1,10 +1,10 @@
 {
-    "appVersion":  "3.4-debug",
+    "appVersion":  "3.5-debug",
     "centralVersion":  "0.2.25",
     "bundle":  {
-                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-3.4-debug-0.2.25.sbap",
-                   "size":  9518123,
-                   "sha256":  "89803507e97bcdfb09c00e8c81d6026b1c4bf4d12db3bc45230b7d1b08f6a6bc"
+                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-3.5-debug-0.2.25.sbap",
+                   "size":  9518843,
+                   "sha256":  "d7c4de255022502e4b1605037a362ff3d0af14a56f88da5c1975eb02fd4c476a"
                },
     "changelog":  "Correcao do OTA da central: estabilidade do upload HTTP, logs de diagnostico e confirmacao de reboot.",
     "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
