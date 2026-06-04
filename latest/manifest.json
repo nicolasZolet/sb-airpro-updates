@@ -3,10 +3,10 @@
     "centralVersion":  "0.2.25",
     "bundle":  {
                    "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-3.1-debug-0.2.25.sbap",
-                   "size":  9514216,
-                   "sha256":  "80eeded7d94f2978176ba54a6192631dcd5d29b1d78d44bb531b427f877d66db"
+                   "size":  9514251,
+                   "sha256":  "da122fd31f391439682ed3dd590fa41313891da3d0043019a4977e4a91db2e70"
                },
-    "changelog":  "Atualizacao remota inicial da central via controle Android.",
+    "changelog":  "CorreÃ§Ã£o do OTA da central: estabilidade do upload HTTP, logs de diagnÃ³stico e confirmaÃ§Ã£o de reboot.",
     "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
     "compatibility":  {
                           "minAppVersion":  "1.0",
