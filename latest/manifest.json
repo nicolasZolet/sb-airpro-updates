@@ -1,10 +1,10 @@
 {
-    "appVersion":  "4.2.1-debug",
+    "appVersion":  "4.3.1-debug",
     "centralVersion":  "0.2.27",
     "bundle":  {
-                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-4.2.1-debug-0.2.27.sbap",
-                   "size":  9509660,
-                   "sha256":  "53c5ce3d390d357404b5017d0f2285431e15fb4d88701d99541cd7c91b4ac86a"
+                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-4.3.1-debug-0.2.27.sbap",
+                   "size":  9511019,
+                   "sha256":  "2d387443fe69984f8c9935f7fe636e50f28d8b0db5d0802caa5866d37b2edcf9"
                },
     "changelog":  "Firmware central 0.2.27 para teste OTA remoto.",
     "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
