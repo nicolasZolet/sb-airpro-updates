@@ -3,6 +3,24 @@
     "channel":  "production",
     "packages":  [
                      {
+                         "version":  "5.10.41-debug",
+                         "channel":  "production",
+                         "appVersion":  "5.10.41-debug",
+                         "centralVersion":  "5.10.41",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.41-debug-5.10.41.sbap",
+                                        "size":  9769136,
+                                        "sha256":  "98c6847d5996dcabeb3d36a6fedd4283dedbc603fcca25d8300716a31c0b4841"
+                                    },
+                         "changelog":  "Firmware central 5.10.41 para teste OTA remoto.",
+                         "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.40-debug",
                          "channel":  "production",
                          "appVersion":  "5.10.40-debug",
