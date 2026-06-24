@@ -3,8 +3,8 @@
     "centralVersion":  "5.10.46",
     "bundle":  {
                    "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.47-5.10.46.sbap",
-                   "size":  3841077,
-                   "sha256":  "397741128393717044644349f5f0d6a7df3d41653fa75b478bbd82b4281e4bb7"
+                   "size":  3841116,
+                   "sha256":  "703166c87a356592970a7cc629d5b268913a277ee36cc60189b31511691e876e"
                },
     "changelog":  "- Liberada a atualizacao do controle quando ainda nao existe Central pareada.\n- Mantida a protecao Central primeiro quando uma Central pareada esta offline.\n- Atualizado o requisito do pacote app-only para nao exigir BLE da Central.",
     "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
