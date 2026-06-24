@@ -1,12 +1,12 @@
 {
-    "appVersion":  "5.10.45",
-    "centralVersion":  "5.10.45",
+    "appVersion":  "5.10.46",
+    "centralVersion":  "5.10.46",
     "bundle":  {
-                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.45-5.10.45.sbap",
-                   "size":  3840960,
-                   "sha256":  "aba97694452877f86218a1cfe2add91514808aa2d34dfd2b5adc1a97dc1fb1e0"
+                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.46-5.10.46.sbap",
+                   "size":  3841224,
+                   "sha256":  "4be709cf7751a2048156587077ce3c1e53dd72da7cf49456f8e30f9eed76f540"
                },
-    "changelog":  "Firmware central 5.10.45 para teste OTA remoto.",
+    "changelog":  "- Melhorada a estabilidade da conexão BLE para tolerar pausas curtas sem queda falsa.\n- Ajustados os tempos de heartbeat e supervisão da Central para evitar reconexões desnecessárias perto do veículo.\n- Adicionado aviso com o nome do preset ao usar os atalhos rápidos.\n- Atualizada a validação técnica do link BLE para cobrir pausas curtas e perdas reais.",
     "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
     "compatibility":  {
                           "minAppVersion":  "1.0",
