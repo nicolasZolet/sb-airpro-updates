@@ -1,13 +1,13 @@
 {
-    "appVersion":  "5.10.46",
+    "appVersion":  "5.10.47",
     "centralVersion":  "5.10.46",
     "bundle":  {
-                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.46-5.10.46.sbap",
-                   "size":  3841319,
-                   "sha256":  "754142cd73af949295581007d2d34886159ce052508286b76b45e6db6a351374"
+                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.47-5.10.46.sbap",
+                   "size":  3841077,
+                   "sha256":  "397741128393717044644349f5f0d6a7df3d41653fa75b478bbd82b4281e4bb7"
                },
-    "changelog":  "- Melhorada a estabilidade da conexao BLE para tolerar pausas curtas sem queda falsa.\n- Corrigida a entrada em pareamento para a Central voltar a anunciar sem precisar reiniciar.\n- Ajustados os tempos de heartbeat e supervisao da Central para evitar reconexoes desnecessarias perto do veiculo.\n- Adicionado aviso com o nome do preset ao usar os atalhos rapidos.\n- Atualizada a validacao tecnica do link BLE para cobrir pausas curtas e perdas reais.",
-    "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
+    "changelog":  "- Liberada a atualizacao do controle quando ainda nao existe Central pareada.\n- Mantida a protecao Central primeiro quando uma Central pareada esta offline.\n- Atualizado o requisito do pacote app-only para nao exigir BLE da Central.",
+    "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
     "compatibility":  {
                           "minAppVersion":  "1.0",
                           "minCentralVersion":  "0.2.0",
