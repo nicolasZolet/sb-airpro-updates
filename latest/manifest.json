@@ -1,12 +1,12 @@
 {
-    "appVersion":  "5.10.48",
+    "appVersion":  "5.10.49",
     "centralVersion":  "5.10.46",
     "bundle":  {
-                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.48-5.10.46.sbap",
-                   "size":  3841527,
-                   "sha256":  "aead93b5165bd4180b86fbc2917202c384a50bce4bf8efcda8cbbc258af0ffaf"
+                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.49-5.10.46.sbap",
+                   "size":  3841306,
+                   "sha256":  "2a85165015732bcc7e0f470dbe651221faeffa83e11e7dc891265604408dec69"
                },
-    "changelog":  "- Corrigida a demora de reconexao BLE ao retornar para perto do veiculo.\n- Priorizada a busca rapida da Central e reduzido o ciclo de conexoes diretas com erro GATT 133.\n- Adicionado cooldown de 8 segundos apos falha de conexao direta e melhorado o status de autenticacao no diagnostico.",
+    "changelog":  "- Simplificadas as mensagens da tela de atualização.\n- Corrigidas acentuação, concordância e gramática em português do Brasil.\n- Removidas as reticências dos estados em andamento e melhoradas as orientações de erro.",
     "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
     "compatibility":  {
                           "minAppVersion":  "1.0",
