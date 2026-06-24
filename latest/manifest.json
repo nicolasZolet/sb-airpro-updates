@@ -1,12 +1,12 @@
 {
-    "appVersion":  "5.10.49",
-    "centralVersion":  "5.10.46",
+    "appVersion":  "5.10.50",
+    "centralVersion":  "5.10.50",
     "bundle":  {
-                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.49-5.10.46.sbap",
-                   "size":  3841306,
-                   "sha256":  "2a85165015732bcc7e0f470dbe651221faeffa83e11e7dc891265604408dec69"
+                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.50-5.10.50.sbap",
+                   "size":  3843891,
+                   "sha256":  "43b6425e152885666346f19ef7558dd00c1488c725d729152621d354e9b95ff4"
                },
-    "changelog":  "- Simplificadas as mensagens da tela de atualização.\n- Corrigidas acentuação, concordância e gramática em português do Brasil.\n- Removidas as reticências dos estados em andamento e melhoradas as orientações de erro.",
+    "changelog":  "- Aplicação de presets mais confiável, com novas tentativas automáticas.\n- Melhoria na estabilidade da conexão Bluetooth com a tela desligada.\n- Exibição do motivo da última desconexão na tela de alertas.\n- Melhorias visuais nas telas de calibração e nos temas.",
     "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
     "compatibility":  {
                           "minAppVersion":  "1.0",

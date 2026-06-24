@@ -3,6 +3,24 @@
     "channel":  "production",
     "packages":  [
                      {
+                         "version":  "5.10.50",
+                         "channel":  "production",
+                         "appVersion":  "5.10.50",
+                         "centralVersion":  "5.10.50",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.50-5.10.50.sbap",
+                                        "size":  3843891,
+                                        "sha256":  "43b6425e152885666346f19ef7558dd00c1488c725d729152621d354e9b95ff4"
+                                    },
+                         "changelog":  "- AplicaÃ§Ã£o de presets mais confiÃ¡vel, com novas tentativas automÃ¡ticas.\n- Melhoria na estabilidade da conexÃ£o Bluetooth com a tela desligada.\n- ExibiÃ§Ã£o do motivo da Ãºltima desconexÃ£o na tela de alertas.\n- Melhorias visuais nas telas de calibraÃ§Ã£o e nos temas.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.49",
                          "channel":  "production",
                          "appVersion":  "5.10.49",
@@ -12,7 +30,7 @@
                                         "size":  3841306,
                                         "sha256":  "2a85165015732bcc7e0f470dbe651221faeffa83e11e7dc891265604408dec69"
                                     },
-                         "changelog":  "- Simplificadas as mensagens da tela de atualizaÃ§Ã£o.\n- Corrigidas acentuaÃ§Ã£o, concordÃ¢ncia e gramÃ¡tica em portuguÃªs do Brasil.\n- Removidas as reticÃªncias dos estados em andamento e melhoradas as orientaÃ§Ãµes de erro.",
+                         "changelog":  "- Simplificadas as mensagens da tela de atualizaÃƒÂ§ÃƒÂ£o.\n- Corrigidas acentuaÃƒÂ§ÃƒÂ£o, concordÃƒÂ¢ncia e gramÃƒÂ¡tica em portuguÃƒÂªs do Brasil.\n- Removidas as reticÃƒÂªncias dos estados em andamento e melhoradas as orientaÃƒÂ§ÃƒÂµes de erro.",
                          "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
                          "compatibility":  {
                                                "minAppVersion":  "1.0",
