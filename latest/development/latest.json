@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.10.60-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.10.60-debug",
+                         "centralVersion":  "5.10.51",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.60-debug-5.10.51.sbap",
+                                        "size":  9807687,
+                                        "sha256":  "109875d8d6e816e287dc22a111e9e9499f8c43fe7b5ebe3ace96f64e97051f9c"
+                                    },
+                         "changelog":  "Melhoria na tela AtualizaÃ§Ã£o: mostra o nome da rede Wi-Fi, identifica rede sem internet e corrige as notas da atualizaÃ§Ã£o.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.59-debug",
                          "channel":  "development",
                          "appVersion":  "5.10.59-debug",
@@ -12,7 +30,7 @@
                                         "size":  9807683,
                                         "sha256":  "88388bc25bc216efd687f180ee2be32879b1b7df1948664a64bd38eadfd3e4ea"
                                     },
-                         "changelog":  "Melhoria na tela AtualizaÃ§Ã£o: agora mostra a rede Wi-Fi conectada e identifica quando a rede estÃ¡ sem internet.",
+                         "changelog":  "Melhoria na tela AtualizaÃƒÂ§ÃƒÂ£o: agora mostra a rede Wi-Fi conectada e identifica quando a rede estÃƒÂ¡ sem internet.",
                          "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
                          "compatibility":  {
                                                "minAppVersion":  "1.0",
