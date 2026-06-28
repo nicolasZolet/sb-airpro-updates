@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.10.62-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.10.62-debug",
+                         "centralVersion":  "5.10.53",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.62-debug-5.10.53.sbap",
+                                        "size":  9822682,
+                                        "sha256":  "302d8c9312850326ed324a2bef94e918785c6918ce7ce622c230ea45aeb200b5"
+                                    },
+                         "changelog":  "Melhorias na atualização por Wi-Fi, no descanso dos LEDs da Central e no ajuste do pulso manual.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.61-debug",
                          "channel":  "development",
                          "appVersion":  "5.10.61-debug",
