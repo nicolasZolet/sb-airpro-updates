@@ -9,10 +9,10 @@
                          "centralVersion":  "5.10.56",
                          "bundle":  {
                                         "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.65-debug-5.10.56.sbap",
-                                        "size":  9827886,
-                                        "sha256":  "a5a60cadbeea51e1a3efbc1754f9ccba1faeae9fe60991398a920eea55ee0601"
+                                        "size":  9827897,
+                                        "sha256":  "58173cc3b6024e34ccd0ba7ab4d091eb61ddf46ab4a7bdff1a3256a64f05e0c4"
                                     },
-                         "changelog":  "Melhoria na conexao automatica para atualizacao da Central.",
+                         "changelog":  "Melhoria na conexão automática para atualização da Central.",
                          "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
                          "compatibility":  {
                                                "minAppVersion":  "1.0",
