@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.10.65-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.10.65-debug",
+                         "centralVersion":  "5.10.56",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.65-debug-5.10.56.sbap",
+                                        "size":  9827886,
+                                        "sha256":  "a5a60cadbeea51e1a3efbc1754f9ccba1faeae9fe60991398a920eea55ee0601"
+                                    },
+                         "changelog":  "Melhoria na conexao automatica para atualizacao da Central.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.64-debug",
                          "channel":  "development",
                          "appVersion":  "5.10.64-debug",
