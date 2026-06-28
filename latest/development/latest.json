@@ -30,7 +30,7 @@
                                         "size":  9807687,
                                         "sha256":  "109875d8d6e816e287dc22a111e9e9499f8c43fe7b5ebe3ace96f64e97051f9c"
                                     },
-                         "changelog":  "Melhoria na tela AtualizaÃ§Ã£o: mostra o nome da rede Wi-Fi, identifica rede sem internet e corrige as notas da atualizaÃ§Ã£o.",
+                         "changelog":  "Melhoria na tela Atualização: mostra o nome da rede Wi-Fi, identifica rede sem internet e corrige as notas da atualização.",
                          "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
                          "compatibility":  {
                                                "minAppVersion":  "1.0",
@@ -48,7 +48,7 @@
                                         "size":  9807683,
                                         "sha256":  "88388bc25bc216efd687f180ee2be32879b1b7df1948664a64bd38eadfd3e4ea"
                                     },
-                         "changelog":  "Melhoria na tela AtualizaÃƒÂ§ÃƒÂ£o: agora mostra a rede Wi-Fi conectada e identifica quando a rede estÃƒÂ¡ sem internet.",
+                         "changelog":  "Melhoria na tela Atualização: agora mostra a rede Wi-Fi conectada e identifica quando a rede está sem internet.",
                          "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
                          "compatibility":  {
                                                "minAppVersion":  "1.0",
