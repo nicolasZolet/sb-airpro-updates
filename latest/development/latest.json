@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.10.59-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.10.59-debug",
+                         "centralVersion":  "5.10.50",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.59-debug-5.10.50.sbap",
+                                        "size":  9807683,
+                                        "sha256":  "88388bc25bc216efd687f180ee2be32879b1b7df1948664a64bd38eadfd3e4ea"
+                                    },
+                         "changelog":  "Melhoria na tela AtualizaÃ§Ã£o: agora mostra a rede Wi-Fi conectada e identifica quando a rede estÃ¡ sem internet.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.39-debug",
                          "channel":  "development",
                          "appVersion":  "5.10.39-debug",
