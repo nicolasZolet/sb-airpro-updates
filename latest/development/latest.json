@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.10.64-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.10.64-debug",
+                         "centralVersion":  "5.10.55",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.64-debug-5.10.55.sbap",
+                                        "size":  9824261,
+                                        "sha256":  "fe162b6a78e7bca5019fb847d7f652799f003f4d58e0a1442298802d321ad556"
+                                    },
+                         "changelog":  "Melhoria na reconexão automática após atualização do controle e da Central.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.63-debug",
                          "channel":  "development",
                          "appVersion":  "5.10.63-debug",
