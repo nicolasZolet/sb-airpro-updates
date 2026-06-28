@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.10.61-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.10.61-debug",
+                         "centralVersion":  "5.10.52",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.61-debug-5.10.52.sbap",
+                                        "size":  9807959,
+                                        "sha256":  "6dc37517b00263755ce30edb3c779459d39b315532858fb2a9efd0dc5acdad1b"
+                                    },
+                         "changelog":  "Correção nas notas da atualização publicada e no ajuste do modo de pulso manual.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.60-debug",
                          "channel":  "development",
                          "appVersion":  "5.10.60-debug",
