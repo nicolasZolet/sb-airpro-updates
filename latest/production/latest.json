@@ -3,6 +3,24 @@
     "channel":  "production",
     "packages":  [
                      {
+                         "version":  "5.10.68",
+                         "channel":  "production",
+                         "appVersion":  "5.10.68",
+                         "centralVersion":  "5.10.58",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.68-5.10.58.sbap",
+                                        "size":  3864633,
+                                        "sha256":  "fd57dc4b7b840d22b6310e685d2152dd3315d923d0bb6d2bc1b564d77c7ae5ba"
+                                    },
+                         "changelog":  "- Melhoria na reconexão Bluetooth.\n- Conexão mais estável ao voltar para perto do veículo.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.50",
                          "channel":  "production",
                          "appVersion":  "5.10.50",

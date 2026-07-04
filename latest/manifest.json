@@ -1,12 +1,12 @@
 {
-    "appVersion":  "5.10.50",
-    "centralVersion":  "5.10.50",
+    "appVersion":  "5.10.68",
+    "centralVersion":  "5.10.58",
     "bundle":  {
-                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.50-5.10.50.sbap",
-                   "size":  3843891,
-                   "sha256":  "43b6425e152885666346f19ef7558dd00c1488c725d729152621d354e9b95ff4"
+                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.68-5.10.58.sbap",
+                   "size":  3864633,
+                   "sha256":  "fd57dc4b7b840d22b6310e685d2152dd3315d923d0bb6d2bc1b564d77c7ae5ba"
                },
-    "changelog":  "- Aplicação de presets mais confiável, com novas tentativas automáticas.\n- Melhoria na estabilidade da conexão Bluetooth com a tela desligada.\n- Exibição do motivo da última desconexão na tela de alertas.\n- Melhorias visuais nas telas de calibração e nos temas.",
+    "changelog":  "- Melhoria na reconexão Bluetooth.\n- Conexão mais estável ao voltar para perto do veículo.",
     "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
     "compatibility":  {
                           "minAppVersion":  "1.0",
