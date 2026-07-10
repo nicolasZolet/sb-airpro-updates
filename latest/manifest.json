@@ -1,12 +1,12 @@
 {
-    "appVersion":  "5.10.68",
-    "centralVersion":  "5.10.58",
+    "appVersion":  "5.10.69",
+    "centralVersion":  "5.10.57",
     "bundle":  {
-                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.68-5.10.58.sbap",
-                   "size":  3864633,
-                   "sha256":  "fd57dc4b7b840d22b6310e685d2152dd3315d923d0bb6d2bc1b564d77c7ae5ba"
+                   "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.69-5.10.57.sbap",
+                   "size":  3869536,
+                   "sha256":  "05fff9b433a6b867c1822bf42a6075153b2b5dce728dd7459f35bc5fd6208cb3"
                },
-    "changelog":  "- Melhoria na reconexão Bluetooth.\n- Conexão mais estável ao voltar para perto do veículo.",
+    "changelog":  "Nova tela \u0027Alertas de demonstracao\u0027 nas configuracoes para simular alertas durante gravacao de videos de divulgacao. Texto do alerta de vazamento simplificado.",
     "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
     "compatibility":  {
                           "minAppVersion":  "1.0",
