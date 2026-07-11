@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.10.71-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.10.71-debug",
+                         "centralVersion":  "5.10.71",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.71-debug-5.10.71.sbap",
+                                        "size":  9844452,
+                                        "sha256":  "a5219d07d7faba64504bcd547cf503bf31c46f20a5d4fcd357ca4c3ba6084ed9"
+                                    },
+                         "changelog":  "Pulso manual preciso de 15ms via esp_timer, chegada padronizada de presets e pressao real visivel para validacao.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.68-debug",
                          "channel":  "development",
                          "appVersion":  "5.10.68-debug",
