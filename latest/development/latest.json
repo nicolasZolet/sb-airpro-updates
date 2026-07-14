@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.10.74-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.10.74-debug",
+                         "centralVersion":  "5.10.74",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.74-debug-5.10.74.sbap",
+                                        "size":  9862571,
+                                        "sha256":  "810c3890567f6ec3f6391fda1a1d940c5b64c478a72d31de9ee4fecf1051c1b0"
+                                    },
+                         "changelog":  "Bump para atualizacao confiavel da central via OTA (sem mudanca funcional vs 5.10.71).",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.73-debug",
                          "channel":  "development",
                          "appVersion":  "5.10.73-debug",
