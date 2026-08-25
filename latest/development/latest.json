@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.11.1-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.11.1-debug",
+                         "centralVersion":  "5.11.1",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.1-debug-5.11.1.sbap",
+                                        "size":  8662225,
+                                        "sha256":  "055eacfc39382765e6bbe6d67197b09ecf4f36a1362dec20a95e954a93a44895"
+                                    },
+                         "changelog":  "Fluxo de primeiro uso: boas-vindas com o nome do dono, tour guiado e calibracao inicial em sequencia.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.74-debug",
                          "channel":  "development",
                          "appVersion":  "5.10.74-debug",
