@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.11.2-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.11.2-debug",
+                         "centralVersion":  "5.11.2",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.2-debug-5.11.2.sbap",
+                                        "size":  8672103,
+                                        "sha256":  "f9eaccf9b24622f8bf9f42c1b148f0dfeff324a945133b5674f79125221d261f"
+                                    },
+                         "changelog":  "Correcao no toque dos botoes de preset: o clique deixa de se perder em toques com leve arrasto e o botao Salvar nao fica mais escondido atras do teclado.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.11.1-debug",
                          "channel":  "development",
                          "appVersion":  "5.11.1-debug",
