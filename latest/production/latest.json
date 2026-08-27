@@ -3,6 +3,24 @@
     "channel":  "production",
     "packages":  [
                      {
+                         "version":  "5.11.11",
+                         "channel":  "production",
+                         "appVersion":  "5.11.11",
+                         "centralVersion":  "5.11.11",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.11-5.11.11.sbap",
+                                        "size":  3469014,
+                                        "sha256":  "e465a0e046ec7206622db2ccaa70e23b3d8677b16f2f170faf23b8d3b4d5192e"
+                                    },
+                         "changelog":  "Novo motor de controle dos presets, mais preciso na chegada à altura escolhida. Calibração inicial simplificada e tour guiado no primeiro uso, que pode ser revisto em Ajustes, na tela Sobre. Alertas reduzidos aos que pedem ação do motorista. Melhorias na tela de atualização, nos alvos de toque e no gesto de abrir os avisos.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.10.70",
                          "channel":  "production",
                          "appVersion":  "5.10.70",
