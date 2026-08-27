@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.11.10-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.11.10-debug",
+                         "centralVersion":  "5.11.10",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.10-debug-5.11.10.sbap",
+                                        "size":  8692479,
+                                        "sha256":  "80f6fef7bce8794e54353ae28469326a006b3e4165d3f01280005ead95eb6b13"
+                                    },
+                         "changelog":  "Aviso claro quando a atualização precisa da central conectada: antes o botão parecia não fazer nada. O alerta de central não pareada saiu da tela principal. O tour ganhou textos novos e pode ser revisto em Ajustes, na tela Sobre, e o menu de configurações ganhou ícones.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.11.9-debug",
                          "channel":  "development",
                          "appVersion":  "5.11.9-debug",
