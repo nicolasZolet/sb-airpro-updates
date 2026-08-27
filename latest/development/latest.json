@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.11.9-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.11.9-debug",
+                         "centralVersion":  "5.11.9",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.9-debug-5.11.9.sbap",
+                                        "size":  8691884,
+                                        "sha256":  "6d446103be1e4d17e0bbed5a28a3ab6b8a1cd4cd140beac17acce49268aa066f"
+                                    },
+                         "changelog":  "Versão para teste e validação do processo de atualização.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.11.7-debug",
                          "channel":  "development",
                          "appVersion":  "5.11.7-debug",
