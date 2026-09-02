@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.11.12-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.11.12-debug",
+                         "centralVersion":  "5.11.12",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.12-debug-5.11.12.sbap",
+                                        "size":  8701697,
+                                        "sha256":  "e50bf9c7181d9c758b81bee0dc6084644c32670747c662cf9e40b5f521b4e806"
+                                    },
+                         "changelog":  "Melhoria no retorno do veículo ao preset após uma descida, leituras de pressão mais estáveis e alertas de vazamento mais confiáveis. O gesto para abrir os avisos ficou mais fácil, e a restauração para produto novo agora limpa presets, calibração e ajustes de uso.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.11.10-debug",
                          "channel":  "development",
                          "appVersion":  "5.11.10-debug",
