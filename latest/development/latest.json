@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.11.14-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.11.14-debug",
+                         "centralVersion":  "5.11.14",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.14-debug-5.11.14.sbap",
+                                        "size":  8766201,
+                                        "sha256":  "a6ba95fea1e65944b2c82284a67b5361356cae0d81b74ca1af07c02f15b1e4ae"
+                                    },
+                         "changelog":  "Melhorias na estabilidade da conexão e no controle da suspensão.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.11.12-debug",
                          "channel":  "development",
                          "appVersion":  "5.11.12-debug",
