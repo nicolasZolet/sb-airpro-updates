@@ -9,10 +9,10 @@
                          "centralVersion":  "5.11.14",
                          "bundle":  {
                                         "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.14-debug-5.11.14.sbap",
-                                        "size":  8766201,
-                                        "sha256":  "a6ba95fea1e65944b2c82284a67b5361356cae0d81b74ca1af07c02f15b1e4ae"
+                                        "size":  8783928,
+                                        "sha256":  "7494bbeeab5d73728da9b9056a537e1bace7f591bb2303ac00019d475eca3f05"
                                     },
-                         "changelog":  "Melhorias na estabilidade da conexão e no controle da suspensão.",
+                         "changelog":  "Todo baixo ganha modo de descida configurável. O botão de toque não interrompe mais a primeira configuração. Retorno ao preset no morro corrigido, e o Bluetooth se recupera sozinho quando a conexão trava com a Central visível. Controle passa a exibir o próprio número de série.",
                          "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
                          "compatibility":  {
                                                "minAppVersion":  "1.0",
