@@ -1,492 +1,492 @@
 {
-    "schemaVersion":  1,
-    "channel":  "development",
-    "packages":  [
-                     {
-                         "version":  "5.11.15-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.11.15-debug",
-                         "centralVersion":  "5.11.15",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.15-debug-5.11.15.sbap",
-                                        "size":  8783893,
-                                        "sha256":  "a78ac95a696195f5a77855091d892e19b39e7c1a4524ffb735b92c34a40c6260"
-                                    },
-                         "changelog":  "Todo baixo ganha modo de descida configurável. O botão de toque não interrompe mais a primeira configuração. Retorno ao preset no morro corrigido, e o Bluetooth se recupera sozinho quando a conexão trava com a Central visível. Controle passa a exibir o próprio número de série.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.11.14-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.11.14-debug",
-                         "centralVersion":  "5.11.14",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.14-debug-5.11.14.sbap",
-                                        "size":  8783928,
-                                        "sha256":  "7494bbeeab5d73728da9b9056a537e1bace7f591bb2303ac00019d475eca3f05"
-                                    },
-                         "changelog":  "Todo baixo ganha modo de descida configurável. O botão de toque não interrompe mais a primeira configuração. Retorno ao preset no morro corrigido, e o Bluetooth se recupera sozinho quando a conexão trava com a Central visível. Controle passa a exibir o próprio número de série.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.11.12-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.11.12-debug",
-                         "centralVersion":  "5.11.12",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.12-debug-5.11.12.sbap",
-                                        "size":  8701697,
-                                        "sha256":  "e50bf9c7181d9c758b81bee0dc6084644c32670747c662cf9e40b5f521b4e806"
-                                    },
-                         "changelog":  "Melhoria no retorno do veículo ao preset após uma descida, leituras de pressão mais estáveis e alertas de vazamento mais confiáveis. O gesto para abrir os avisos ficou mais fácil, e a restauração para produto novo agora limpa presets, calibração e ajustes de uso.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.11.10-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.11.10-debug",
-                         "centralVersion":  "5.11.10",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.10-debug-5.11.10.sbap",
-                                        "size":  8692479,
-                                        "sha256":  "80f6fef7bce8794e54353ae28469326a006b3e4165d3f01280005ead95eb6b13"
-                                    },
-                         "changelog":  "Aviso claro quando a atualização precisa da central conectada: antes o botão parecia não fazer nada. O alerta de central não pareada saiu da tela principal. O tour ganhou textos novos e pode ser revisto em Ajustes, na tela Sobre, e o menu de configurações ganhou ícones.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.11.9-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.11.9-debug",
-                         "centralVersion":  "5.11.9",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.9-debug-5.11.9.sbap",
-                                        "size":  8691884,
-                                        "sha256":  "6d446103be1e4d17e0bbed5a28a3ab6b8a1cd4cd140beac17acce49268aa066f"
-                                    },
-                         "changelog":  "Versão para teste e validação do processo de atualização.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.11.7-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.11.7-debug",
-                         "centralVersion":  "5.11.7",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.7-debug-5.11.7.sbap",
-                                        "size":  8678974,
-                                        "sha256":  "ce49fcf62ab17a546daf89874e4205d96a7aa02889e79f5e3cd7d5929cabcfd1"
-                                    },
-                         "changelog":  "Versão para teste e validação do processo de atualização.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.11.6-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.11.6-debug",
-                         "centralVersion":  "5.11.6",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.6-debug-5.11.6.sbap",
-                                        "size":  8678820,
-                                        "sha256":  "6e0a9ac3a3288823863306dd2b0a3b2bcffb3a47716af188eb046098dd34c488"
-                                    },
-                         "changelog":  "Versão para teste e validação do processo de atualização.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.11.2-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.11.2-debug",
-                         "centralVersion":  "5.11.2",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.2-debug-5.11.2.sbap",
-                                        "size":  8672103,
-                                        "sha256":  "f9eaccf9b24622f8bf9f42c1b148f0dfeff324a945133b5674f79125221d261f"
-                                    },
-                         "changelog":  "Correcao no toque dos botoes de preset: o clique deixa de se perder em toques com leve arrasto e o botao Salvar nao fica mais escondido atras do teclado.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.11.1-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.11.1-debug",
-                         "centralVersion":  "5.11.1",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.1-debug-5.11.1.sbap",
-                                        "size":  8662225,
-                                        "sha256":  "055eacfc39382765e6bbe6d67197b09ecf4f36a1362dec20a95e954a93a44895"
-                                    },
-                         "changelog":  "Fluxo de primeiro uso: boas-vindas com o nome do dono, tour guiado e calibracao inicial em sequencia.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.74-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.74-debug",
-                         "centralVersion":  "5.10.74",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.74-debug-5.10.74.sbap",
-                                        "size":  9862571,
-                                        "sha256":  "810c3890567f6ec3f6391fda1a1d940c5b64c478a72d31de9ee4fecf1051c1b0"
-                                    },
-                         "changelog":  "Bump para atualizacao confiavel da central via OTA (sem mudanca funcional vs 5.10.71).",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.73-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.73-debug",
-                         "centralVersion":  "5.10.73",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.73-debug-5.10.73.sbap",
-                                        "size":  9862448,
-                                        "sha256":  "f4e57db7056dc1a0fa19d2be9ed72d04eb8654fe1cdab6cb0adc790708eb908b"
-                                    },
-                         "changelog":  "Bump para atualizacao confiavel da central via OTA (sem mudanca funcional vs 5.10.71).",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.72-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.72-debug",
-                         "centralVersion":  "5.10.72",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.72-debug-5.10.72.sbap",
-                                        "size":  9844465,
-                                        "sha256":  "3d077d4c813a7de0fce4d1a5da37f98a5516825df763e14025c67aa7ee9156bd"
-                                    },
-                         "changelog":  "Bump para atualizacao confiavel da central via OTA (sem mudanca funcional vs 5.10.71).",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.71-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.71-debug",
-                         "centralVersion":  "5.10.71",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.71-debug-5.10.71.sbap",
-                                        "size":  9844452,
-                                        "sha256":  "a5219d07d7faba64504bcd547cf503bf31c46f20a5d4fcd357ca4c3ba6084ed9"
-                                    },
-                         "changelog":  "Pulso manual preciso de 15ms via esp_timer, chegada padronizada de presets e pressao real visivel para validacao.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.68-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.68-debug",
-                         "centralVersion":  "5.10.57",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.68-debug-5.10.57.sbap",
-                                        "size":  9844849,
-                                        "sha256":  "ced02cccb59b7b870736900bfe7f3f9902b9512bc682744f818b5870a3232296"
-                                    },
-                         "changelog":  "Nova tela \u0027Alertas de demonstracao\u0027 nas configuracoes para simular alertas durante gravacao de videos de divulgacao. Texto do alerta de vazamento simplificado.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.66-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.66-debug",
-                         "centralVersion":  "5.10.57",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.66-debug-5.10.57.sbap",
-                                        "size":  9827874,
-                                        "sha256":  "230a3af3d162c4999a51af0e54d297314ee26b2f949a90ae02bdc3fc027fb745"
-                                    },
-                         "changelog":  "Melhoria na conexão automática para atualização da Central.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.65-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.65-debug",
-                         "centralVersion":  "5.10.56",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.65-debug-5.10.56.sbap",
-                                        "size":  9827897,
-                                        "sha256":  "58173cc3b6024e34ccd0ba7ab4d091eb61ddf46ab4a7bdff1a3256a64f05e0c4"
-                                    },
-                         "changelog":  "Melhoria na conexão automática para atualização da Central.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.64-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.64-debug",
-                         "centralVersion":  "5.10.55",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.64-debug-5.10.55.sbap",
-                                        "size":  9824261,
-                                        "sha256":  "fe162b6a78e7bca5019fb847d7f652799f003f4d58e0a1442298802d321ad556"
-                                    },
-                         "changelog":  "Melhoria na reconexão automática após atualização do controle e da Central.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.63-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.63-debug",
-                         "centralVersion":  "5.10.54",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.63-debug-5.10.54.sbap",
-                                        "size":  9824232,
-                                        "sha256":  "c4475117ab3d6cc5ac57fe5218e09e383f02165c13d0c4bdf3d3e9785efa424a"
-                                    },
-                         "changelog":  "Melhoria na reconexão após atualização do controle e da Central.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.62-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.62-debug",
-                         "centralVersion":  "5.10.53",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.62-debug-5.10.53.sbap",
-                                        "size":  9822682,
-                                        "sha256":  "302d8c9312850326ed324a2bef94e918785c6918ce7ce622c230ea45aeb200b5"
-                                    },
-                         "changelog":  "Melhorias na atualização por Wi-Fi, no descanso dos LEDs da Central e no ajuste do pulso manual.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.61-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.61-debug",
-                         "centralVersion":  "5.10.52",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.61-debug-5.10.52.sbap",
-                                        "size":  9807959,
-                                        "sha256":  "6dc37517b00263755ce30edb3c779459d39b315532858fb2a9efd0dc5acdad1b"
-                                    },
-                         "changelog":  "Correção nas notas da atualização publicada e no ajuste do modo de pulso manual.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.60-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.60-debug",
-                         "centralVersion":  "5.10.51",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.60-debug-5.10.51.sbap",
-                                        "size":  9807687,
-                                        "sha256":  "109875d8d6e816e287dc22a111e9e9499f8c43fe7b5ebe3ace96f64e97051f9c"
-                                    },
-                         "changelog":  "Melhoria na tela Atualização: mostra o nome da rede Wi-Fi, identifica rede sem internet e corrige as notas da atualização.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.59-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.59-debug",
-                         "centralVersion":  "5.10.50",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.59-debug-5.10.50.sbap",
-                                        "size":  9807683,
-                                        "sha256":  "88388bc25bc216efd687f180ee2be32879b1b7df1948664a64bd38eadfd3e4ea"
-                                    },
-                         "changelog":  "Melhoria na tela Atualização: agora mostra a rede Wi-Fi conectada e identifica quando a rede está sem internet.",
-                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.39-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.39-debug",
-                         "centralVersion":  "5.10.39",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.39-debug-5.10.39.sbap",
-                                        "size":  9782483,
-                                        "sha256":  "cc3caee2e7dd4c7066788801a66b695ebe7bce9073bcba1e8575926df7bec3ba"
-                                    },
-                         "changelog":  "Firmware central 5.10.39 para teste OTA remoto.",
-                         "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.38-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.38-debug",
-                         "centralVersion":  "5.10.38",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.38-debug-5.10.38.sbap",
-                                        "size":  9778932,
-                                        "sha256":  "49e19d36cf445288e6ed7f4e5dbf4736171a824ff863e8779985024ec2e76d0a"
-                                    },
-                         "changelog":  "Firmware central 5.10.38 para teste OTA remoto.",
-                         "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.37-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.37-debug",
-                         "centralVersion":  "5.10.37",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.37-debug-5.10.37.sbap",
-                                        "size":  9778345,
-                                        "sha256":  "e248df476f76a21999f618263f1d06c3719c98186dc899ec308b19796cb64aa9"
-                                    },
-                         "changelog":  "Firmware central 5.10.37 para teste OTA remoto.",
-                         "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.36-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.36-debug",
-                         "centralVersion":  "5.10.36",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.36-debug-5.10.36.sbap",
-                                        "size":  9762450,
-                                        "sha256":  "9bee24716da2d721e1453fc313908998def0e1d284eb631b97558faea3b90e64"
-                                    },
-                         "changelog":  "Firmware central 5.10.36 para teste OTA remoto.",
-                         "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     },
-                     {
-                         "version":  "5.10.35-debug",
-                         "channel":  "development",
-                         "appVersion":  "5.10.35-debug",
-                         "centralVersion":  "5.10.35",
-                         "bundle":  {
-                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.35-debug-5.10.35.sbap",
-                                        "size":  9762384,
-                                        "sha256":  "6c9d1de7ee9ecc335d759bfa665f29fa8e3d848a2bca98fd44dba801e5e124dd"
-                                    },
-                         "changelog":  "Firmware central 5.10.35 para teste OTA remoto.",
-                         "requirements":  "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
-                         "compatibility":  {
-                                               "minAppVersion":  "1.0",
-                                               "minCentralVersion":  "0.2.0",
-                                               "minAndroidSdk":  26
-                                           }
-                     }
-                 ]
+    "schemaVersion": 1,
+    "channel": "development",
+    "packages": [
+        {
+            "version": "5.11.15-debug",
+            "channel": "development",
+            "appVersion": "5.11.15-debug",
+            "centralVersion": "5.11.15",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.15-debug-5.11.15.sbap",
+                "size": 8783893,
+                "sha256": "a78ac95a696195f5a77855091d892e19b39e7c1a4524ffb735b92c34a40c6260"
+            },
+            "changelog": "Todo baixo ganha modo de descida configurável. O botão de toque não interrompe mais a primeira configuração. Retorno ao preset no morro corrigido, e o Bluetooth se recupera sozinho quando a conexão trava com a Central visível. Controle passa a exibir o próprio número de série.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.11.14-debug",
+            "channel": "development",
+            "appVersion": "5.11.14-debug",
+            "centralVersion": "5.11.14",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.14-debug-5.11.14.sbap",
+                "size": 8766201,
+                "sha256": "a6ba95fea1e65944b2c82284a67b5361356cae0d81b74ca1af07c02f15b1e4ae"
+            },
+            "changelog": "Melhorias na estabilidade da conexão e no controle da suspensão.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.11.12-debug",
+            "channel": "development",
+            "appVersion": "5.11.12-debug",
+            "centralVersion": "5.11.12",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.12-debug-5.11.12.sbap",
+                "size": 8701697,
+                "sha256": "e50bf9c7181d9c758b81bee0dc6084644c32670747c662cf9e40b5f521b4e806"
+            },
+            "changelog": "Melhoria no retorno do veículo ao preset após uma descida, leituras de pressão mais estáveis e alertas de vazamento mais confiáveis. O gesto para abrir os avisos ficou mais fácil, e a restauração para produto novo agora limpa presets, calibração e ajustes de uso.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.11.10-debug",
+            "channel": "development",
+            "appVersion": "5.11.10-debug",
+            "centralVersion": "5.11.10",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.10-debug-5.11.10.sbap",
+                "size": 8692479,
+                "sha256": "80f6fef7bce8794e54353ae28469326a006b3e4165d3f01280005ead95eb6b13"
+            },
+            "changelog": "Aviso claro quando a atualização precisa da central conectada: antes o botão parecia não fazer nada. O alerta de central não pareada saiu da tela principal. O tour ganhou textos novos e pode ser revisto em Ajustes, na tela Sobre, e o menu de configurações ganhou ícones.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.11.9-debug",
+            "channel": "development",
+            "appVersion": "5.11.9-debug",
+            "centralVersion": "5.11.9",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.9-debug-5.11.9.sbap",
+                "size": 8691884,
+                "sha256": "6d446103be1e4d17e0bbed5a28a3ab6b8a1cd4cd140beac17acce49268aa066f"
+            },
+            "changelog": "Versão para teste e validação do processo de atualização.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.11.7-debug",
+            "channel": "development",
+            "appVersion": "5.11.7-debug",
+            "centralVersion": "5.11.7",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.7-debug-5.11.7.sbap",
+                "size": 8678974,
+                "sha256": "ce49fcf62ab17a546daf89874e4205d96a7aa02889e79f5e3cd7d5929cabcfd1"
+            },
+            "changelog": "Versão para teste e validação do processo de atualização.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.11.6-debug",
+            "channel": "development",
+            "appVersion": "5.11.6-debug",
+            "centralVersion": "5.11.6",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.6-debug-5.11.6.sbap",
+                "size": 8678820,
+                "sha256": "6e0a9ac3a3288823863306dd2b0a3b2bcffb3a47716af188eb046098dd34c488"
+            },
+            "changelog": "Versão para teste e validação do processo de atualização.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.11.2-debug",
+            "channel": "development",
+            "appVersion": "5.11.2-debug",
+            "centralVersion": "5.11.2",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.2-debug-5.11.2.sbap",
+                "size": 8672103,
+                "sha256": "f9eaccf9b24622f8bf9f42c1b148f0dfeff324a945133b5674f79125221d261f"
+            },
+            "changelog": "Correcao no toque dos botoes de preset: o clique deixa de se perder em toques com leve arrasto e o botao Salvar nao fica mais escondido atras do teclado.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.11.1-debug",
+            "channel": "development",
+            "appVersion": "5.11.1-debug",
+            "centralVersion": "5.11.1",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.1-debug-5.11.1.sbap",
+                "size": 8662225,
+                "sha256": "055eacfc39382765e6bbe6d67197b09ecf4f36a1362dec20a95e954a93a44895"
+            },
+            "changelog": "Fluxo de primeiro uso: boas-vindas com o nome do dono, tour guiado e calibracao inicial em sequencia.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.74-debug",
+            "channel": "development",
+            "appVersion": "5.10.74-debug",
+            "centralVersion": "5.10.74",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.74-debug-5.10.74.sbap",
+                "size": 9862571,
+                "sha256": "810c3890567f6ec3f6391fda1a1d940c5b64c478a72d31de9ee4fecf1051c1b0"
+            },
+            "changelog": "Bump para atualizacao confiavel da central via OTA (sem mudanca funcional vs 5.10.71).",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.73-debug",
+            "channel": "development",
+            "appVersion": "5.10.73-debug",
+            "centralVersion": "5.10.73",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.73-debug-5.10.73.sbap",
+                "size": 9862448,
+                "sha256": "f4e57db7056dc1a0fa19d2be9ed72d04eb8654fe1cdab6cb0adc790708eb908b"
+            },
+            "changelog": "Bump para atualizacao confiavel da central via OTA (sem mudanca funcional vs 5.10.71).",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.72-debug",
+            "channel": "development",
+            "appVersion": "5.10.72-debug",
+            "centralVersion": "5.10.72",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.72-debug-5.10.72.sbap",
+                "size": 9844465,
+                "sha256": "3d077d4c813a7de0fce4d1a5da37f98a5516825df763e14025c67aa7ee9156bd"
+            },
+            "changelog": "Bump para atualizacao confiavel da central via OTA (sem mudanca funcional vs 5.10.71).",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.71-debug",
+            "channel": "development",
+            "appVersion": "5.10.71-debug",
+            "centralVersion": "5.10.71",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.71-debug-5.10.71.sbap",
+                "size": 9844452,
+                "sha256": "a5219d07d7faba64504bcd547cf503bf31c46f20a5d4fcd357ca4c3ba6084ed9"
+            },
+            "changelog": "Pulso manual preciso de 15ms via esp_timer, chegada padronizada de presets e pressao real visivel para validacao.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.68-debug",
+            "channel": "development",
+            "appVersion": "5.10.68-debug",
+            "centralVersion": "5.10.57",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.68-debug-5.10.57.sbap",
+                "size": 9844849,
+                "sha256": "ced02cccb59b7b870736900bfe7f3f9902b9512bc682744f818b5870a3232296"
+            },
+            "changelog": "Nova tela 'Alertas de demonstracao' nas configuracoes para simular alertas durante gravacao de videos de divulgacao. Texto do alerta de vazamento simplificado.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.66-debug",
+            "channel": "development",
+            "appVersion": "5.10.66-debug",
+            "centralVersion": "5.10.57",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.66-debug-5.10.57.sbap",
+                "size": 9827874,
+                "sha256": "230a3af3d162c4999a51af0e54d297314ee26b2f949a90ae02bdc3fc027fb745"
+            },
+            "changelog": "Melhoria na conexão automática para atualização da Central.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.65-debug",
+            "channel": "development",
+            "appVersion": "5.10.65-debug",
+            "centralVersion": "5.10.56",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.65-debug-5.10.56.sbap",
+                "size": 9827897,
+                "sha256": "58173cc3b6024e34ccd0ba7ab4d091eb61ddf46ab4a7bdff1a3256a64f05e0c4"
+            },
+            "changelog": "Melhoria na conexão automática para atualização da Central.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.64-debug",
+            "channel": "development",
+            "appVersion": "5.10.64-debug",
+            "centralVersion": "5.10.55",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.64-debug-5.10.55.sbap",
+                "size": 9824261,
+                "sha256": "fe162b6a78e7bca5019fb847d7f652799f003f4d58e0a1442298802d321ad556"
+            },
+            "changelog": "Melhoria na reconexão automática após atualização do controle e da Central.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.63-debug",
+            "channel": "development",
+            "appVersion": "5.10.63-debug",
+            "centralVersion": "5.10.54",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.63-debug-5.10.54.sbap",
+                "size": 9824232,
+                "sha256": "c4475117ab3d6cc5ac57fe5218e09e383f02165c13d0c4bdf3d3e9785efa424a"
+            },
+            "changelog": "Melhoria na reconexão após atualização do controle e da Central.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.62-debug",
+            "channel": "development",
+            "appVersion": "5.10.62-debug",
+            "centralVersion": "5.10.53",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.62-debug-5.10.53.sbap",
+                "size": 9822682,
+                "sha256": "302d8c9312850326ed324a2bef94e918785c6918ce7ce622c230ea45aeb200b5"
+            },
+            "changelog": "Melhorias na atualização por Wi-Fi, no descanso dos LEDs da Central e no ajuste do pulso manual.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.61-debug",
+            "channel": "development",
+            "appVersion": "5.10.61-debug",
+            "centralVersion": "5.10.52",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.61-debug-5.10.52.sbap",
+                "size": 9807959,
+                "sha256": "6dc37517b00263755ce30edb3c779459d39b315532858fb2a9efd0dc5acdad1b"
+            },
+            "changelog": "Correção nas notas da atualização publicada e no ajuste do modo de pulso manual.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.60-debug",
+            "channel": "development",
+            "appVersion": "5.10.60-debug",
+            "centralVersion": "5.10.51",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.60-debug-5.10.51.sbap",
+                "size": 9807687,
+                "sha256": "109875d8d6e816e287dc22a111e9e9499f8c43fe7b5ebe3ace96f64e97051f9c"
+            },
+            "changelog": "Melhoria na tela Atualização: mostra o nome da rede Wi-Fi, identifica rede sem internet e corrige as notas da atualização.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.59-debug",
+            "channel": "development",
+            "appVersion": "5.10.59-debug",
+            "centralVersion": "5.10.50",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.59-debug-5.10.50.sbap",
+                "size": 9807683,
+                "sha256": "88388bc25bc216efd687f180ee2be32879b1b7df1948664a64bd38eadfd3e4ea"
+            },
+            "changelog": "Melhoria na tela Atualização: agora mostra a rede Wi-Fi conectada e identifica quando a rede está sem internet.",
+            "requirements": "Controle com bateria acima de 30% e Wi-Fi conectado.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.39-debug",
+            "channel": "development",
+            "appVersion": "5.10.39-debug",
+            "centralVersion": "5.10.39",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.39-debug-5.10.39.sbap",
+                "size": 9782483,
+                "sha256": "cc3caee2e7dd4c7066788801a66b695ebe7bce9073bcba1e8575926df7bec3ba"
+            },
+            "changelog": "Firmware central 5.10.39 para teste OTA remoto.",
+            "requirements": "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.38-debug",
+            "channel": "development",
+            "appVersion": "5.10.38-debug",
+            "centralVersion": "5.10.38",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.38-debug-5.10.38.sbap",
+                "size": 9778932,
+                "sha256": "49e19d36cf445288e6ed7f4e5dbf4736171a824ff863e8779985024ec2e76d0a"
+            },
+            "changelog": "Firmware central 5.10.38 para teste OTA remoto.",
+            "requirements": "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.37-debug",
+            "channel": "development",
+            "appVersion": "5.10.37-debug",
+            "centralVersion": "5.10.37",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.37-debug-5.10.37.sbap",
+                "size": 9778345,
+                "sha256": "e248df476f76a21999f618263f1d06c3719c98186dc899ec308b19796cb64aa9"
+            },
+            "changelog": "Firmware central 5.10.37 para teste OTA remoto.",
+            "requirements": "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.36-debug",
+            "channel": "development",
+            "appVersion": "5.10.36-debug",
+            "centralVersion": "5.10.36",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.36-debug-5.10.36.sbap",
+                "size": 9762450,
+                "sha256": "9bee24716da2d721e1453fc313908998def0e1d284eb631b97558faea3b90e64"
+            },
+            "changelog": "Firmware central 5.10.36 para teste OTA remoto.",
+            "requirements": "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        },
+        {
+            "version": "5.10.35-debug",
+            "channel": "development",
+            "appVersion": "5.10.35-debug",
+            "centralVersion": "5.10.35",
+            "bundle": {
+                "url": "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.10.35-debug-5.10.35.sbap",
+                "size": 9762384,
+                "sha256": "6c9d1de7ee9ecc335d759bfa665f29fa8e3d848a2bca98fd44dba801e5e124dd"
+            },
+            "changelog": "Firmware central 5.10.35 para teste OTA remoto.",
+            "requirements": "Controle com bateria acima de 30%, Wi-Fi conectado e central conectada por BLE.",
+            "compatibility": {
+                "minAppVersion": "1.0",
+                "minCentralVersion": "0.2.0",
+                "minAndroidSdk": 26
+            }
+        }
+    ]
 }
