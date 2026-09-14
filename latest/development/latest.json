@@ -3,6 +3,24 @@
     "channel":  "development",
     "packages":  [
                      {
+                         "version":  "5.11.17-debug",
+                         "channel":  "development",
+                         "appVersion":  "5.11.17-debug",
+                         "centralVersion":  "5.11.15",
+                         "bundle":  {
+                                        "url":  "https://raw.githubusercontent.com/nicolasZolet/sb-airpro-updates/main/latest/airpro-update-5.11.17-debug-5.11.15.sbap",
+                                        "size":  8809246,
+                                        "sha256":  "2c02e28de889ffac70e5983345418b1f4116ce109ac752ca20b72a229d5f616e"
+                                    },
+                         "changelog":  "Posição do controle passa a ser pedida ao GPS/Google na hora do envio.",
+                         "requirements":  "Controle com bateria acima de 30% e Wi-Fi conectado.",
+                         "compatibility":  {
+                                               "minAppVersion":  "1.0",
+                                               "minCentralVersion":  "0.2.0",
+                                               "minAndroidSdk":  26
+                                           }
+                     },
+                     {
                          "version":  "5.11.16-debug",
                          "channel":  "development",
                          "appVersion":  "5.11.16-debug",
